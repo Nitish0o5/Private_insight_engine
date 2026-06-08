@@ -1,0 +1,8 @@
+pyspark
+chromadb
+sentence-transformers
+langchain
+pypdf
+requests
+tqdm
+streamlit
